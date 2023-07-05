@@ -1,0 +1,2 @@
+#Visualization project Car_sales by Power BI: 
+https://app.powerbi.com/view?r=eyJrIjoiOWQ4MjBkMjItNWJmYy00ZDFlLWI2YjItYzdlYzJhOGM5ODFkIiwidCI6ImNmNmJiYjI5LWYxNjUtNGUxYy04OWY5LTI4Y2JjZWE2ZTliNiIsImMiOjEwfQ%3D%3D
